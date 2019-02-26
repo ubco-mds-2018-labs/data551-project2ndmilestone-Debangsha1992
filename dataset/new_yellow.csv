@@ -1,0 +1,13 @@
+,Trip Month,payment_type,Payment_Type_Count_yellow
+0,January,Credit CARD,304411
+1,January,Cash,130816
+2,January,No charge,2086
+3,January,Dispute,595
+4,February,Credit CARD,299865
+5,February,Cash,122024
+6,February,No charge,2143
+7,February,Dispute,570
+8,March,Credit CARD,328122
+9,March,Cash,140075
+10,March,No charge,2517
+11,March,Dispute,692
